@@ -24,7 +24,7 @@ Use a loop in `_stu`(Jekyll collection `_stu`)to show all the info of groupmates
 Include the last updated time at the bottom of the page, add a link of Team-C repo into the public repo of **`csci3251-2023.github.io`** and request for review from @chuckjee.
 
 ## Code 
-
 {% include_relative code.c %}
 
+![c workflow](https://github.com/csci3251-2023/project-team-c/actions/workflows/c-cpp.yml/badge.svg)
 ## Contributors
